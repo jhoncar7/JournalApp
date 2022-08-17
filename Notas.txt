@@ -1,0 +1,10 @@
+Inicio de Proyecto {
+    yarn create vite
+    luego ejecutamos "yarn" o "yarn install" para instalar las dependencias
+    yarn dev -> se ejecuta en desarrollo en el puerto http://localhost:5173/
+
+    yarn add react-router-dom@6
+    yarn add @mui/material @emotion/react @emotion/styled
+    yarn add @mui/icons-material
+
+}
